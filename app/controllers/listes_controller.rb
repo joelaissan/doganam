@@ -1,6 +1,6 @@
 class ListesController < ApplicationController
 
-	def home
+	def demandepret
 
 	end
 
@@ -11,6 +11,12 @@ class ListesController < ApplicationController
 	end
 
 	def accept
+
+	end
+
+
+	def danger
+
 
 	end
 

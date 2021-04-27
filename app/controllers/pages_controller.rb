@@ -5,14 +5,9 @@ class PagesController < ApplicationController
 
  	end
 
- 	def infos
+ 	def creationcompte
 
  	end
-
- 	def createUtilisateur
-       
-    end
-
 
     def connexion
 
